@@ -293,6 +293,7 @@ add_compile_options(
     -Wno-pointer-to-int-cast
     -Wno-compare-distinct-pointer-types
     -Wno-unknown-warning-option
+    -Wno-incompatible-pointer-types
 )
 
 
